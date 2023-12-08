@@ -42,6 +42,9 @@ Rueda del raton en el modo "freq" | Cambio del valor de las frecuencias
 Rueda del raton en el modo "wav" | Cambio del valor del tipo de onda
 
 ## Recursos usados
+### Generacion procedural
 https://github.com/vazgriz/DungeonGenerator
-
+### Animacion procedural
 https://github.com/lchaumartin/SpiderProceduralAnimation/tree/FirstVideo
+### URP Render
+https://github.com/whateep/unity-simple-URP-pixelation
