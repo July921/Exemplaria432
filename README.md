@@ -5,7 +5,7 @@ https://july921.itch.io/exemplaria432
 **Tabla de contenidos**
 
 1. [Exemplaria432](#Exemplaria432)
-2. [Activar sonido](#Activar sonido)
+2. [Activar sonido](#Activarsonido)
 3. [Controles](#Controles)
 
 ## Activar sonido
