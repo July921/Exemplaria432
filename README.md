@@ -5,6 +5,7 @@ https://july921.itch.io/exemplaria432
 **Tabla de contenidos**
 1. [Activar sonido](#Activarsonido)
 2. [Controles](#Controles)
+3. [Recursos usados](#Recursosusados)
 
 ## Activar sonido
 
@@ -39,3 +40,7 @@ Click Izquierdo | Disparo del arma
 Click Derecho | Cambio entre "freq" y "wav"
 Rueda del raton en el modo "freq" | Cambio del valor de las frecuencias
 Rueda del raton en el modo "wav" | Cambio del valor del tipo de onda
+
+## Recursos usados
+https://github.com/vazgriz/DungeonGenerator
+https://github.com/lchaumartin/SpiderProceduralAnimation/tree/FirstVideo
