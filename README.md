@@ -5,7 +5,7 @@ https://july921.itch.io/exemplaria432
 **Tabla de contenidos**
 1. [Activar sonido](#Activarsonido)
 2. [Controles](#Controles)
-3. [Recursos usados](#Recursosusados)
+3. [Recursos usados](#Recursos)
 
 ## Activar sonido
 
@@ -41,7 +41,7 @@ Click Derecho | Cambio entre "freq" y "wav"
 Rueda del raton en el modo "freq" | Cambio del valor de las frecuencias
 Rueda del raton en el modo "wav" | Cambio del valor del tipo de onda
 
-## Recursos usados
+## Recursos
 ### Generacion procedural
 https://github.com/vazgriz/DungeonGenerator
 ### Animacion procedural
