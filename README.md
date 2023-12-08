@@ -19,9 +19,7 @@ Si no estas familiarizado con el programa de SuperCollider debes seguir estos pa
 [![Captura-de-pantalla-25.png](https://i.postimg.cc/C1QLSFG9/Captura-de-pantalla-25.png)](https://postimg.cc/xJLSPVFP)
 - Colocaremos nuestro cursor al final de cada parentesis, y presionaremos __Ctrl + Enter__ para activar el sonido.
 [![Captura-de-pantalla-26.png](https://i.postimg.cc/7PCTbLBB/Captura-de-pantalla-26.png)](https://postimg.cc/23D5KCNv)
--
 [![Captura-de-pantalla-27.png](https://i.postimg.cc/1zj3ZGZy/Captura-de-pantalla-27.png)](https://postimg.cc/NyRc6rMn)
--
 [![Captura-de-pantalla-28.png](https://i.postimg.cc/6q6jLvyG/Captura-de-pantalla-28.png)](https://postimg.cc/k6Zv7DNn)
 - En total son 14 lineas que activar, te deberan aparecer estos avisos en la parte derecha del programa.
 [![Captura-de-pantalla-29.png](https://i.postimg.cc/g0n6Rkzk/Captura-de-pantalla-29.png)](https://postimg.cc/xkVCVQNW)
