@@ -2,6 +2,8 @@
 “Exemplaria 432” es un videojuego 3D que explora la conexion con SuperCollider para la generacion de sonido:
 https://july921.itch.io/exemplaria432
 
+Recuerda usar audifonos para poder jugar.
+
 **Tabla de contenidos**
 1. [Activar sonido](#Activarsonido)
 2. [Controles](#Controles)
