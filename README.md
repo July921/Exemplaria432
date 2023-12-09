@@ -38,6 +38,8 @@ D  | Avanzar hacia la derecha
 A  | Avanzar hacia la izquierda
 Espacio | Saltar
 Esc | Pausa
+Shift | Correr
+Ctrl | Sigilo
 Click Izquierdo | Disparo del arma 
 Click Derecho | Cambio entre "freq" y "wav"
 Rueda del raton en el modo "freq" | Cambio del valor de las frecuencias
