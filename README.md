@@ -52,3 +52,5 @@ https://github.com/vazgriz/DungeonGenerator
 https://github.com/lchaumartin/SpiderProceduralAnimation/tree/FirstVideo
 ### URP Render
 https://github.com/whateep/unity-simple-URP-pixelation
+### OSCControl
+https://github.com/jorgegarcia/UnityOSC
