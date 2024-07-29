@@ -17,7 +17,7 @@ Si no estas familiarizado con el programa de SuperCollider debes seguir estos pa
 - Una vez instalado SuperCollider, abrir el archivo __Jugador.scd__.
 - Te aparecera esta pantalla:
 [![Captura-de-pantalla-23.png](https://i.postimg.cc/25hs9CyC/Captura-de-pantalla-23.png)](https://postimg.cc/HJWvVDbN)
-- Deberas dar click derecho en la esquina inferior derecha del programa y nos aparecera un submen, daremos click en __Boot Server__.
+- Deberas dar click derecho en la esquina inferior derecha del programa y nos aparecera un submen, daremos click en __Boot Server__. O en su defecto lo activamos con el comando "Ctrl + b"
 [![Captura-de-pantalla-24.png](https://i.postimg.cc/3JMYBfnj/Captura-de-pantalla-24.png)](https://postimg.cc/rz9Byj6z)
 - Ahora los numeros de abajo deberan iluminarse de color verde.
 [![Captura-de-pantalla-25.png](https://i.postimg.cc/C1QLSFG9/Captura-de-pantalla-25.png)](https://postimg.cc/xJLSPVFP)
